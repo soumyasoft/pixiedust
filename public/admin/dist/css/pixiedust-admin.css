@@ -1,0 +1,53 @@
+.login-icone{
+    position: absolute;
+    top: 0px;
+    margin-left: 10px;
+}
+.list-unstyled{
+    color: red !important;
+}
+.help-block{
+    color: red !important;
+}
+.all_chk label{
+    display: block !important;  
+}
+input[type="file"] {
+    display: block;
+}
+.imageThumb {
+    max-height: 75px;
+    border: 2px solid;
+    padding: 1px;
+    cursor: pointer;
+}
+.pip {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+.remove {
+    display: block;
+    /*    background: #444;
+        border: 1px solid black;
+        color: white;*/
+    text-align: center;
+    cursor: pointer;
+}
+.remove:hover {
+    background: white;
+    color: black;
+}
+
+.mul_image{margin-bottom: 15px; display:inline-block;}
+.mul_image img{
+    width: 100px;
+}
+.mul_image a{
+    float: left;
+
+}
+
+.mul_image i{display: block; text-align: center; color:#ff0000; margin-top: 5px;}
+.col-md-6{
+    float: left;
+}
